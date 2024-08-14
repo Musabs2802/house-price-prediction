@@ -1,0 +1,194 @@
+Sub-Area,Type,Area,Price,Company,Township,Township Area,ClubHouse,School,Hospital,Mall,Park,Pool,Gym
+bavdhan,1.0,492,3.9000000000000004,shapoorji paloonji,Vanaha,1000.0,1,1,1,1,1,1,1
+bavdhan,2.0,774,6.5,shapoorji paloonji,Vanaha,1000.0,1,1,1,1,1,1,1
+bavdhan,3.0,889,7.4,shapoorji paloonji,Vanaha,1000.0,1,1,1,1,1,1,1
+bavdhan,3.0,1018,8.9,shapoorji paloonji,Vanaha,1000.0,1,1,1,1,1,1,1
+mahalunge,2.0,743,7.4,godrej properties,Godrej Hills retreat,100.0,1,1,1,1,1,1,1
+mahalunge,3.0,975,9.5,godrej properties,Godrej Hills retreat,100.0,1,1,1,1,1,1,1
+balewadi,2.0,1333,7.5,anp corp,ANP Universe,25.0,1,0,0,0,1,1,1
+balewadi,3.0,1713,10.0,anp corp,ANP Universe,25.0,1,0,0,0,1,1,1
+ravet,2.0,905,6.5,urban space creator,Urban Skyline,10.0,1,0,0,0,1,1,1
+ravet,3.0,1125,8.8,urban space creator,Urban Skyline,10.0,1,0,0,0,1,1,1
+ravet,4.0,1644,13.5,urban space creator,Urban Skyline,10.0,1,0,0,0,1,1,1
+ravet,5.0,2220,18.8,urban space creator,Urban Skyline,10.0,1,0,0,0,1,1,1
+ravet,6.0,2220,18.8,urban space creator,Urban Skyline,10.0,1,0,0,0,1,1,1
+baner,2.0,1084,5.800000000000001,vtp reality,VTP Cierra,10.0,1,0,0,0,1,1,1
+baner,3.0,1496,9.5,vtp reality,VTP Cierra,10.0,1,0,0,0,1,1,1
+mahalunge,1.0,423,4.0,vtp reality,VTP Blue Water,50.0,1,0,0,0,1,1,1
+mahalunge,2.0,665,5.800000000000001,vtp reality,VTP Blue Water,50.0,1,0,0,0,1,1,1
+mahalunge,3.0,1274,7.800000000000001,vtp reality,VTP Blue Water,50.0,1,0,0,0,1,1,1
+ravet,1.0,462,3.6,waghvani constructions,OM Mangalam Chaitanya,25.0,1,0,0,0,1,1,1
+ravet,2.0,666,4.800000000000001,waghvani constructions,OM Mangalam Chaitanya,25.0,1,0,0,0,1,1,1
+ravet,2.0,750,5.7,sukwani associates,Sukwani Aspire,10.0,1,0,0,0,1,1,1
+ravet,3.0,1030,7.9,sukwani associates,Sukwani Aspire,10.0,1,0,0,0,1,1,1
+kharadi,1.0,446,3.7,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,2.0,796,5.7,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,2.0,842,5.9,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,2.0,865,6.1000000000000005,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,2.0,902,6.300000000000001,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,2.0,1154,7.9,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,872,6.1000000000000005,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,934,6.5,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,1088,7.300000000000001,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,1109,7.6000000000000005,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,1163,8.0,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,1419,9.600000000000001,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+kharadi,3.0,1485,10.0,mantra properties,Mantra 29 Gold,25.0,1,0,0,0,1,0,1
+balewadi,2.0,684,7.0,mantra properties,Mantra Monarch,3.0,1,0,0,0,1,1,1
+balewadi,3.0,990,9.0,mantra properties,Mantra Monarch,3.0,1,0,0,0,1,1,1
+koregaon park,2.0,882,9.700000000000001,mantra properties,Infinity,25.0,1,0,0,0,1,1,1
+koregaon park,3.0,1103,12.0,mantra properties,Infinity,25.0,1,0,0,0,1,1,1
+keshav nagar,1.0,543,4.2,mantra properties,Mantra Insignia,,1,0,0,0,1,1,1
+keshav nagar,2.0,1363,5.7,mantra properties,Mantra Insignia,,1,0,0,0,1,1,1
+kirkatwadi sinhagad road,1.0,320,1.4000000000000001,mantra properties,7Hills,,1,0,0,0,1,1,1
+kirkatwadi sinhagad road,2.0,473,2.2,mantra properties,7Hills,,1,0,0,0,1,1,1
+kirkatwadi sinhagad road,3.0,581,2.6,mantra properties,7Hills,,1,0,0,0,1,1,1
+akurdi,2.0,790,8.0,mantra properties,Mantra Sky Tower,3.5,1,0,0,0,1,1,1
+akurdi,2.0,820,8.3,mantra properties,Mantra Sky Tower,3.5,1,0,0,0,1,1,1
+akurdi,3.0,989,10.100000000000001,mantra properties,Mantra Sky Tower,3.5,1,0,0,0,1,1,1
+akurdi,3.0,1003,10.3,mantra properties,Mantra Sky Tower,3.5,1,0,0,0,1,1,1
+akurdi,3.0,1182,12.8,mantra properties,Mantra Sky Tower,3.5,1,0,0,0,1,1,1
+akurdi,5.0,1579,16.3,mantra properties,Mantra Sky Tower,3.5,1,0,0,0,1,1,1
+tathawade,1.0,491,3.9000000000000004,ravima ventures,newton homes,,0,0,0,0,1,0,1
+tathawade,2.0,659,5.1000000000000005,ravima ventures,newton homes,,0,0,0,0,1,0,1
+tathawade,2.0,732,6.0,ravima ventures,newton homes,,0,0,0,0,1,0,1
+tathawade,3.0,809,6.6000000000000005,ravima ventures,newton homes,,0,0,0,0,0,0,1
+hadapsar,1.0,460,4.55,proviso group,lesiure Town,,0,0,0,0,1,1,1
+hadapsar,2.0,734,7.25,proviso group,lesiure Town,,0,0,0,0,1,1,1
+hadapsar,2.0,753,7.3500000000000005,proviso group,lesiure Town,,0,0,0,0,1,1,1
+hadapsar,2.0,675,6.2,ravima ventures,newton homes,,0,0,0,0,1,0,0
+hadapsar,3.0,917,8.4,ravima ventures,newton homes,,0,0,0,0,1,0,0
+kiwale,2.0,670,5.414000000000001,unique properties,k ville,,1,0,0,0,1,1,0
+kiwale,2.0,740,5.832000000000001,unique properties,k ville,,1,0,0,0,1,1,0
+kiwale,2.5,847,6.938,unique properties,k ville,,1,0,0,0,1,1,0
+kiwale,2.5,936,7.503,unique properties,k ville,,1,0,0,0,1,1,0
+kiwale,3.0,990,7.902,unique properties,k ville,,1,0,0,0,1,1,0
+kiwale,3.0,1032,8.209999999999999,unique properties,k ville,,1,0,0,0,1,1,0
+kayani nagar,3.0,1698,24.900000000000002,sagitarius ecospaces llp,bluegrass residences,,1,0,0,0,1,1,1
+pisoli,2.0,670,4.575,nirman developers,brookefield willows,,1,0,0,0,1,1,1
+pisoli,2.0,725,4.934000000000001,nirman developers,brookefield willows,,1,0,0,0,1,1,1
+pisoli,2.0,731,4.974,nirman developers,brookefield willows,,1,0,0,0,1,1,1
+pisoli,2.0,744,5.056000000000001,nirman developers,brookefield willows,,1,0,0,0,1,1,1
+manjri,1.0,446,3.6,jhala group,tranquility annexe,,1,0,0,0,1,1,1
+manjri,2.0,670,5.5,jhala group,tranquility annexe,,1,0,0,0,1,1,1
+manjri,2.5,792,6.550000000000001,jhala group,tranquility annexe,,1,0,0,0,1,1,1
+mahalunge,2.0,1180,6.800000000000001,jhala group,mahalunge riviera,,1,0,0,0,1,1,1
+mahalunge,2.0,860,6.5,jhala group,mahalunge riviera,,1,0,0,0,1,1,1
+mahalunge,3.0,988,9.200000000000001,jhala group,mahalunge riviera,,1,0,0,0,1,1,1
+mahalunge,3.0,1093,9.200000000000001,jhala group,mahalunge riviera,,1,0,0,0,1,1,1
+handewadi,1.0,456,3.35,jhala group,simplicity,,1,0,0,0,1,0,1
+handewadi,2.0,644,4.7299999999999995,jhala group,simplicity,,1,0,0,0,1,0,1
+handewadi,2.5,785,5.522,jhala group,simplicity,,1,0,0,0,1,0,1
+koregaon park,3.0,1060,13.600000000000001,shroff developers,aureta,,0,0,0,0,1,1,1
+mundhwa,2.0,664,4.759,unique properties,unique legacy royale,,0,0,0,0,1,0,1
+mundhwa,2.0,670,4.7700000000000005,unique properties,unique legacy royale,,0,0,0,0,1,0,1
+mundhwa,2.0,673,4.78,unique properties,unique legacy royale,,0,0,0,0,1,0,1
+mundhwa,2.0,682,4.7909999999999995,unique properties,unique legacy royale,,0,0,0,0,1,0,1
+mundhwa,2.0,698,4.8020000000000005,unique properties,unique legacy royale,,0,0,0,0,1,0,1
+nibm,3.0,1239,16.1,kundan spaces,Presidia,,1,0,0,0,1,1,1
+nibm,3.0,1315,17.0,kundan spaces,Presidia,,1,0,0,0,1,1,1
+nibm,3.0,1388,17.8,kundan spaces,Presidia,,1,0,0,0,1,1,1
+nibm,3.0,1463,18.7,kundan spaces,Presidia,,1,0,0,0,1,1,1
+nibm,3.5,1671,21.1,kundan spaces,Presidia,,1,0,0,0,1,1,1
+nibm,3.5,1687,21.3,kundan spaces,Presidia,,1,0,0,0,1,1,1
+bt kawade rd,1.0,575,6.5,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,2.0,751,8.4,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,2.0,761,8.5,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,2.0,871,9.600000000000001,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,3.0,1166,12.9,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,3.0,1206,13.3,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,3.0,1272,13.9,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+bt kawade rd,3.0,1279,14.0,kundan spaces,Eternia 2.0,,1,0,0,0,1,1,1
+undri,2.0,646,4.32,venkatesh bhoomi construction,Bliss Solitaire,,0,0,0,0,1,0,0
+undri,2.0,717,4.74,venkatesh bhoomi construction,Bliss Solitaire,,0,0,0,0,1,0,0
+handewadi,1.0,436,3.058,lush life,Impero,,0,0,0,0,1,0,0
+handewadi,2.0,637,4.349,lush life,Impero,,0,0,0,0,1,0,0
+handewadi,2.0,642,4.383,lush life,Impero,,0,0,0,0,1,0,0
+handewadi,2.0,655,4.444,lush life,Impero,,0,0,0,0,1,0,0
+handewadi,2.0,668,4.5520000000000005,lush life,Impero,,0,0,0,0,1,0,0
+handewadi,3.0,810,5.4,lush life,Impero,,0,0,0,0,1,0,0
+karvanagar,2.0,735,11.100000000000001,maha anand pinnac associates,River Dale Residency,,0,0,0,0,1,0,1
+karvanagar,2.0,783,11.8,maha anand pinnac associates,River Dale Residency,,0,0,0,0,1,0,1
+karvanagar,2.0,805,12.100000000000001,maha anand pinnac associates,River Dale Residency,,0,0,0,0,1,0,1
+karvanagar,3.0,1074,16.2,maha anand pinnac associates,River Dale Residency,,0,0,0,0,1,0,1
+karvanagar,3.0,1111,16.7,maha anand pinnac associates,River Dale Residency,,0,0,0,0,1,0,1
+nibm,1.0,535,3.6,vasupujya corporation,Neco Beaumont,,1,0,0,0,1,0,1
+nibm,2.0,725,5.2,vasupujya corporation,Neco Beaumont,,1,0,0,0,1,0,1
+magarpatta,2.0,810,7.9,ace constructions,Anutham,,1,0,0,0,1,0,0
+magarpatta,3.0,947,9.700000000000001,ace constructions,Anutham,,1,0,0,0,1,0,0
+hinjewadi,2.0,697,6.806000000000001,shapoorji paloonji,Sensorium,,1,0,0,0,1,1,1
+hinjewadi,2.0,711,6.841,shapoorji paloonji,Sensorium,,1,0,0,0,1,1,1
+hinjewadi,2.0,792,7.800000000000001,shapoorji paloonji,Sensorium,,1,0,0,0,1,1,1
+hinjewadi,3.0,980,9.887,shapoorji paloonji,Sensorium,,1,0,0,0,1,1,1
+hinjewadi,4.0,1400,14.0,shapoorji paloonji,Sensorium,,1,0,0,0,1,1,1
+hinjewadi,5.0,1772,17.7,shapoorji paloonji,Sensorium,,1,0,0,0,1,1,1
+hadapsar,2.0,732,6.88,wellwisher apartments,kiarah terrazo,,0,0,0,0,1,0,0
+hadapsar,2.0,751,6.88,wellwisher apartments,kiarah terrazo,,0,0,0,0,1,0,0
+hadapsar,5.0,1662,13.0,wellwisher apartments,kiarah terrazo,,0,0,0,0,1,0,0
+ravet,2.0,705,4.800000000000001,dolphin group,Dolphin Garima,,0,0,0,0,0,0,1
+ravet,2.0,726,5.1000000000000005,dolphin group,Dolphin Garima,,0,0,0,0,0,0,1
+ravet,2.0,809,5.6000000000000005,dolphin group,Dolphin Garima,,0,0,0,0,0,0,1
+vimannagar,2.0,734,9.5,oxy buildcorp,Oxy Beaumonde,,1,0,0,0,1,1,1
+vimannagar,2.0,793,11.0,oxy buildcorp,Oxy Beaumonde,,1,0,0,0,1,1,1
+vimannagar,2.0,904,11.8,oxy buildcorp,Oxy Beaumonde,,1,0,0,0,1,1,1
+vimannagar,3.0,1154,14.600000000000001,oxy buildcorp,Oxy Beaumonde,,1,0,0,0,1,1,1
+vimannagar,3.0,1168,14.700000000000001,oxy buildcorp,Oxy Beaumonde,,1,0,0,0,1,1,1
+vimannagar,3.0,1189,14.9,oxy buildcorp,Oxy Beaumonde,,1,0,0,0,1,1,1
+hinjewadi,1.0,479,3.8680000000000003,kohinoor group,Sportsville,,0,0,0,0,1,1,1
+hinjewadi,2.0,693,5.800000000000001,kohinoor group,Sportsville,,0,0,0,0,1,1,1
+hinjewadi,2.0,725,6.072,kohinoor group,Sportsville,,0,0,0,0,1,1,1
+bt kawade rd,2.0,808,8.149,kohinoor group,Presidenta,,0,0,0,0,1,1,1
+bt kawade rd,3.0,1086,10.8,kohinoor group,Presidenta,,0,0,0,0,1,1,1
+wadgaon sheri,2.0,785,7.45,bhaktamar realities,Bhaktamar Residency,,1,0,0,0,1,1,1
+wadgaon sheri,2.0,844,8.059000000000001,bhaktamar realities,Bhaktamar Residency,,1,0,0,0,1,1,1
+wadgaon sheri,2.0,873,8.3,bhaktamar realities,Bhaktamar Residency,,1,0,0,0,1,1,1
+susgaon,2.0,606,4.7250000000000005,porwal developer,Parklane UrbanJoy,,1,0,0,0,1,1,1
+susgaon,2.0,611,4.75,porwal developer,Parklane UrbanJoy,,1,0,0,0,1,1,1
+susgaon,2.0,626,4.843,porwal developer,Parklane UrbanJoy,,1,0,0,0,1,1,1
+susgaon,2.0,691,5.526,porwal developer,Parklane UrbanJoy,,1,0,0,0,1,1,1
+susgaon,3.0,835,6.6000000000000005,porwal developer,Parklane UrbanJoy,,1,0,0,0,1,1,1
+susgaon,3.0,854,6.7,porwal developer,Parklane UrbanJoy,,1,0,0,0,1,1,1
+mohammadwadi,2.0,626,4.57,porwal developer,khush vista,,1,0,0,0,1,0,0
+mohammadwadi,2.0,715,4.55,porwal developer,khush vista,,1,0,0,0,1,0,0
+dhanori,2.0,1004,5.9,keystone landmark,oxy eterno,,0,0,0,0,1,0,0
+dhanori,3.0,968,8.700000000000001,keystone landmark,oxy eterno,,0,0,0,0,1,0,0
+dhanori,3.0,996,8.9,keystone landmark,oxy eterno,,0,0,0,0,1,0,0
+dhanori,3.0,1038,9.200000000000001,keystone landmark,oxy eterno,,0,0,0,0,1,0,0
+baner,1.0,489,4.38,puraniks,Abitante Fiore,,1,0,0,0,1,1,1
+baner,2.0,598,5.53,puraniks,Abitante Fiore,,1,0,0,0,1,1,1
+baner,2.0,616,5.65,puraniks,Abitante Fiore,,1,0,0,0,1,1,1
+baner,2.0,692,6.23,puraniks,Abitante Fiore,,1,0,0,0,1,1,1
+baner,3.0,867,7.93,puraniks,Abitante Fiore,,1,0,0,0,1,1,1
+baner,3.0,908,8.25,puraniks,Abitante Fiore,,1,0,0,0,1,1,1
+lonavala,3.0,1624,15.9,puraniks,puraniks Sayama,,1,0,0,0,1,1,1
+lonavala,4.0,2043,21.5,puraniks,puraniks Sayama,,1,0,0,0,1,1,1
+handewadi,2.0,727,4.574000000000001,majestique landmarks,Rhythm county,,0,0,0,0,1,1,0
+handewadi,3.0,923,5.8950000000000005,majestique landmarks,Rhythm county,,0,0,0,0,1,1,0
+manjri,2.0,1012,5.9,kalpataru,Kalpataru Serenity,,1,0,0,0,1,1,1
+manjri,3.0,1601,10.9,kalpataru,Kalpataru Serenity,,1,0,0,0,1,1,1
+kharadi,2.0,408,3.9990000000000006,vijaya laxmi creations,Satyam Shivam,,1,0,0,0,1,0,1
+kharadi,2.0,546,5.399000000000001,vijaya laxmi creations,Satyam Shivam,,1,0,0,0,1,0,1
+kharadi,2.0,629,5.9990000000000006,vijaya laxmi creations,Satyam Shivam,,1,0,0,0,1,0,1
+wadgaon sheri,1.0,378,3.3000000000000003,vijaya laxmi creations,Satyam Serenity,,1,0,0,0,1,0,1
+wadgaon sheri,1.0,494,4.7,vijaya laxmi creations,Satyam Serenity,,1,0,0,0,1,0,1
+wadgaon sheri,2.0,780,7.0,vijaya laxmi creations,Satyam Serenity,,1,0,0,0,1,0,1
+wadgaon sheri,2.0,850,7.300000000000001,vijaya laxmi creations,Satyam Serenity,,1,0,0,0,1,0,1
+wadgaon sheri,2.0,900,7.800000000000001,vijaya laxmi creations,Satyam Serenity,,1,0,0,0,1,0,1
+wadgaon sheri,2.0,930,8.3,vijaya laxmi creations,Satyam Serenity,,1,0,0,0,1,0,1
+baner,3.0,1863,17.5,kalpataru,jade residences,,0,0,0,0,1,1,0
+baner,3.5,1740,25.0,kalpataru,jade residences,,0,0,0,0,1,1,0
+bavdhan,1.0,405,3.9490000000000003,vijaya laxmi infrarealtors,Satyam Shery,,1,0,0,0,1,0,0
+bavdhan,1.0,408,3.9490000000000003,vijaya laxmi infrarealtors,Satyam Shery,,1,0,0,0,1,0,0
+bavdhan,1.0,392,3.9490000000000003,vijaya laxmi infrarealtors,Satyam Shery,,1,0,0,0,1,0,0
+bavdhan,2.0,667,6.499,vijaya laxmi infrarealtors,Satyam Shery,,1,0,0,0,1,0,0
+bavdhan,2.0,641,6.499,vijaya laxmi infrarealtors,Satyam Shery,,1,0,0,0,1,0,0
+bavdhan,2.0,665,6.499,vijaya laxmi infrarealtors,Satyam Shery,,1,0,0,0,1,0,0
+talegoan,1.0,280,1.319,calyx spaces,Atulya Kanhe,,1,0,0,0,1,1,1
+talegoan,2.0,385,1.729,calyx spaces,Atulya Kanhe,,1,0,0,0,1,0,1
+baner,2.0,730,8.700000000000001,supreme,SUPREME ESTIA,5.0,1,0,0,0,1,1,1
+baner,3.0,1670,12.9,supreme,SUPREME ESTIA,5.0,1,0,0,0,1,1,1
+baner,3.0,2000,16.0,supreme,SUPREME ESTIA,5.0,1,0,0,0,1,1,1
+baner,4.0,1600,23.0,supreme,SUPREME ESTIA,5.0,1,0,0,0,1,1,1
+baner,2.0,1173,9.5,tejraaj group,TEJ ELEVIA,2.5,0,0,0,0,1,1,1
+baner,3.0,1657,13.5,tejraaj group,TEJ ELEVIA,2.5,0,0,0,0,1,1,1
+baner,2.0,776,9.068000000000001,vtp reality,vtp solitaire,,1,0,0,0,1,1,1
